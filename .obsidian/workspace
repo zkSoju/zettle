@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "1046737046396965",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d3fedf1f2470c6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Temporary variables.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ae0350514c5f82ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Misconceptions behind SDL-first and Code-first.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "9d26fd0281ae7873",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Permissioned controller used for upgradeability.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6efe97fcd42f61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ece459f98d60e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533026b997a001ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aefb66f9273070ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261
+  },
+  "right": {
+    "id": "b921948029e0c155",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2586de500fd6d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bca7538e6e6621",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting Notes/Temporary variables.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bdad1f4993dc0b4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f6d3fedf1f2470c6",
+  "lastOpenFiles": [
+    "Fleeting Notes/Temporary variables.md",
+    "Fleeting Notes/Structure of marketplace.md",
+    "Fleeting Notes/Storage collision with unstructured proxies.md",
+    "Fleeting Notes/Solving the 15-puzzle.md",
+    "Fleeting Notes/Separation of Execution Strategies.md",
+    "Fleeting Notes/Returning functions don't require paranethesis.md",
+    "Fleeting Notes/Schema definition language (SDL) first design in Apollo.md",
+    "Fleeting Notes/References, temporary variables, and local variables.md",
+    "Fleeting Notes/Parking an identity contract.md",
+    "Fleeting Notes/Creating a squashed dictionary that simulates a normal dict.md"
+  ]
+}

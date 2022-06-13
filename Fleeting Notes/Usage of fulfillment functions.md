@@ -1,0 +1,16 @@
+- Calling "standard" function `fulfillOrder` and `fulfillAdvancedOrder`
+	- Implied order is created where caller is offerer and consideration of fulfilled order as the offer, and offer of fulfilled order as the consideration
+	- 
+- Calling "basic" function `fulfillBasicOrder` with one of six basic routes
+	- Contains one single offer item and at least one consideration item
+	- Contains at least one ERC721 or ERC1155 that is not criteria based
+	- Offerer of order is the recipient of the first consideration item
+	- Offer is not in native token (ex. Ether) or ERC20 token type
+	- Cannot have time-based/dynamic pricing
+	- All "ignored" item fields are null address or zero
+		- `token` and `identifierOrCriteria` for native tokens
+		- `identifierOrCriteria` for ERC20
+	- If item is ERC721, then amount is `1`
+	- If offer has multiple consideration items and all items other than the first have the same item type as offered, then offered amount must be greater than sum of all consideration amounts (?)
+		- Invalid example?
+			- 1 NFT -> 20 ETH + 1 NFT + 1 NFT
