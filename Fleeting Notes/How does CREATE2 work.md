@@ -2,7 +2,7 @@
 Status: 
 Tags: #create2 #useronboarding 
 
-# How does CREATE2 work?
+# How does CREATE2 work
 - Address is calculated as hash of
 	- Address of creator
 	- Salt provided as parameter

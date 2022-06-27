@@ -14,4 +14,4 @@ Tags: #defi #looksrare
 
 ---
 # References
-[[Where do DeFi yields come from?]]
+[[Where do DeFi yields come from]]

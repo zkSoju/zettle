@@ -2,7 +2,7 @@
 Status: 
 Tags: #graphql
 
-# What are Schema Decorators?
+# What are Schema Decorators
 - **Schema decorators** allow you to write
 	- Schemas in SDL with no code resolve functions and custom logic
 	- And also add functionality (validation/authorization) to specific parts of schema

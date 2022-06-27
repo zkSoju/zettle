@@ -2,7 +2,7 @@
 Status: #fleeting
 Tags: #defi
 
-# Where do DeFi yields come from?
+# Where do DeFi yields come from
 - Lenders, stakers, and LP providers receive % reward (APR)
 - Many prroject built on unsustainable ponzinomics
 - Identify projects where revenue sources go to token holders

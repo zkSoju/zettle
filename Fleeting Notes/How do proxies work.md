@@ -2,7 +2,7 @@
 Status: #fleeting
 Tags: #upgradeability 
 
-# How do proxies work?
+# How do proxies work
 - Delegate calls to logic contract
 - Proxies require a function `upgradeTo(address)` to change the logic contract to point to
 	- What if the logic contract also has the same function name?

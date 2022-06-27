@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Converting between BigNumber and unit types.md",
+            "file": "Fleeting Notes/Where do DeFi yields come from.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ethers",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Converting between BigNumber and unit types.md",
+                "file": "Fleeting Notes/Where do DeFi yields come from.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,15 +125,15 @@
   },
   "active": "f6d3fedf1f2470c6",
   "lastOpenFiles": [
+    "Fleeting Notes/Where do DeFi yields come from.md",
+    "Fleeting Notes/What are Schema Decorators.md",
+    "Fleeting Notes/How do proxies work.md",
+    "Fleeting Notes/How does CREATE2 work.md",
     "Fleeting Notes/Converting between BigNumber and unit types.md",
     "Fleeting Notes/Structure of marketplace.md",
     "Fleeting Notes/Untitled.md",
     "Fleeting Notes/Adding CRON Jobs to RDS Postgres.md",
     "Fleeting Notes/Setting up NestJS & Prisma with AWS Lambda.md",
-    "Fleeting Notes/Misconceptions behind SDL-first and Code-first.md",
-    "Fleeting Notes/NestJS GraphQL Resolvers (Code-first).md",
-    "Fleeting Notes/Notes for Marketplace Infrastructure.md",
-    "Fleeting Notes/Temporary variables.md",
-    "Fleeting Notes/Storage collision with unstructured proxies.md"
+    "Fleeting Notes/Misconceptions behind SDL-first and Code-first.md"
   ]
 }

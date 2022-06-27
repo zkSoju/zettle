@@ -15,4 +15,4 @@ Tags: #defi #terra
 
 ---
 # References
-[[Where do DeFi yields come from?]]
+[[Where do DeFi yields come from]]
