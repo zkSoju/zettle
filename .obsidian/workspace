@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Temporary variables.md",
+            "file": "Fleeting Notes/Converting between BigNumber and unit types.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Misconceptions behind SDL-first and Code-first.md",
+            "file": "Fleeting Notes/Setting up NestJS & Prisma with AWS Lambda.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ethers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Temporary variables.md",
+                "file": "Fleeting Notes/Converting between BigNumber and unit types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,20 +121,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f6d3fedf1f2470c6",
   "lastOpenFiles": [
-    "Fleeting Notes/Temporary variables.md",
+    "Fleeting Notes/Converting between BigNumber and unit types.md",
     "Fleeting Notes/Structure of marketplace.md",
-    "Fleeting Notes/Storage collision with unstructured proxies.md",
-    "Fleeting Notes/Solving the 15-puzzle.md",
-    "Fleeting Notes/Separation of Execution Strategies.md",
-    "Fleeting Notes/Returning functions don't require paranethesis.md",
-    "Fleeting Notes/Schema definition language (SDL) first design in Apollo.md",
-    "Fleeting Notes/References, temporary variables, and local variables.md",
-    "Fleeting Notes/Parking an identity contract.md",
-    "Fleeting Notes/Creating a squashed dictionary that simulates a normal dict.md"
+    "Fleeting Notes/Untitled.md",
+    "Fleeting Notes/Adding CRON Jobs to RDS Postgres.md",
+    "Fleeting Notes/Setting up NestJS & Prisma with AWS Lambda.md",
+    "Fleeting Notes/Misconceptions behind SDL-first and Code-first.md",
+    "Fleeting Notes/NestJS GraphQL Resolvers (Code-first).md",
+    "Fleeting Notes/Notes for Marketplace Infrastructure.md",
+    "Fleeting Notes/Temporary variables.md",
+    "Fleeting Notes/Storage collision with unstructured proxies.md"
   ]
 }

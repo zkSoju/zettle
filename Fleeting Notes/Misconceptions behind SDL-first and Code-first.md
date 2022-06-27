@@ -12,6 +12,11 @@ What is "schema first"?
 	- **You still pay attention to upfront schema design**
 [[Background of GraphQL server development]]
 
+- Docker 
+- Monorepo/Terraform
+- AWS ping service
+- RDS
+- Auto scaling + cloudwatch
 
 
 
