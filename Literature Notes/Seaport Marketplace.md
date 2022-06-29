@@ -3,9 +3,12 @@ Status: #fleeting
 Tags:
 
 # Seaport Marketplace
+
 [[About Seaport]]
 
 Repository is composed of both Foundry and Hardhat testing frameworks for increased coverage through different testing methodology. Seaport utilizes offchain listings and composite order matching through [[Improved off-chain message signing]] in order to achieve low gas usage.
+
+[[Seaport Terminology]]
 
 [[Creating an order]]
 
@@ -33,7 +36,9 @@ An an order can be fulfilled in three ways:
 - **Signature based fulfillment** - approve using signature
 - **Onchain fulfillment** - validating on-chain order
 
-[[]]
+[[Matching orders]]
+
+[[Fulfilling orders]]
 
 
 

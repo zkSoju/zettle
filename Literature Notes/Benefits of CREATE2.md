@@ -3,10 +3,11 @@ Status:
 Tags:
 
 # Benefits of CREATE2
+[[How does CREATE2 work]]
 [[Comparing CREATE2 vs CREATE]]
 
-When deploying contracts
-
+When deploying contracts, `CREATE` already gives you the ability to know the address that the contract is being deployed to in advance with `address = hash(sender,nonce)`; however, it is not possible to park an address in advance. `CREATE2` uses the following calculation `address = hash(0xFF, sender, salt, bytecode)`. With `CREATE2` you can **park** or reserve an address in advance **regardless** of transactions sent in the meantime (which affect the nonce) used in `CREATE`. 
+ 
 [[Counterfactuality with CREATE2]]
 
 Initially the primary use case of CREATE2 was to avoid situations of counterfactuality where a user might be reliant on a non-deployed contract address to operate, but the threat or possibility of a third party deploying a contract to the same address is problemsome. 

@@ -9,6 +9,7 @@ Tags: #seaport
 	- approve the order through signature (65 byte ECDSA, 64 byte EIP-2098, `isValidSignatureCheck`)
 	- listing order on-chain via `validate`
 - `zone` is an optional secondary account that can also `cancel` orders and can create "Restricted" orders that can only be executed by the zone or offerer
+---
 - `offer` contains array of items that may be transferred from offerer's account
 	- `itemType` as native token (ex. Ether), ERC20, ERC721, ERC1155, ERC721 w/ criteria or ERC1155 w/ criteria
 	- `token` is token address
@@ -17,6 +18,7 @@ Tags: #seaport
 	- `endAmount` if difference than start amount, realized amount is calculated linearly since order becomes active
 - `consideration` contains array of items to be received to fulfill order and contains same components as `offer` with the additional 
 	- `recipient` component to support "tipping"
+---
 - `orderType` indicates one of four types (two preferences)
 	- `FULL` indicates order does not support partial fills
 	- `PARTIAL` enables partial/fractional fulfillment with the requirement that each item must be cleanly divisible
