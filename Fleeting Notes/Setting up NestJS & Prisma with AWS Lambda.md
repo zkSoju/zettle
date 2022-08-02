@@ -18,7 +18,12 @@ Tags:
 10. Prisma interferes with NestJS `enableShutdownHooks` ...
 11. Install GraphQL + Typescript support `npm i @nestjs/graphql @nestjs/apollo graphql apollo-server-express`
 12. Use `npm install --save-dev prisma-nestjs-graphql` to generate models for code-first approach from Prisma models (can customize for validation?)
-	1. `npm install graphql-type-json prisma-graphql-type-decimal` If you need `JSON` or `decimal` type
+	1. `npm install graphql-type-json prisma-graphql-type-decimal` If you need `JSON` or `decimal` typ
+---
+AWS
+1. Setup execution role in Lambda in permissions
+2. Create VPC for API gateway to access RDS
+3. Set proper `DATABASE_URL` for prisma 
 
 
 

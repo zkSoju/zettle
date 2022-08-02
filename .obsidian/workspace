@@ -9,31 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Constructing an offer.md",
+            "file": "Fleeting Notes/Frontrunning and arbitrage.md",
             "mode": "source",
             "source": false
           }
         }
       },
       {
-        "id": "a2d7fd8b3598dc25",
+        "id": "df5ddaeba1c49c7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Creating an order.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "49ca443a1babc616",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fleeting Notes/Comparing CREATE2 vs CREATE.md",
+            "file": "Fleeting Notes/What are smart contracts really?.md",
             "mode": "source",
             "source": false
           }
@@ -64,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "create2",
+                "query": "tag:#real3",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Constructing an offer.md",
+                "file": "Fleeting Notes/Frontrunning and arbitrage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,20 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "4801eb1228dcd7ac",
   "lastOpenFiles": [
-    "Fleeting Notes/Constructing an offer.md",
-    "Fleeting Notes/Creating an order.md",
-    "Literature Notes/Seaport Marketplace.md",
-    "Fleeting Notes/Deployment contracts.md",
-    "Fleeting Notes/Fulfilling orders.md",
-    "Literature Notes/Benefits of CREATE2.md",
-    "Fleeting Notes/How does CREATE2 work.md",
-    "Fleeting Notes/Comparing CREATE2 vs CREATE.md",
-    "Literature Notes/Backend Architecture with GraphQL.md",
-    "Fleeting Notes/Seaport Terminology.md"
+    "Fleeting Notes/Frontrunning and arbitrage.md",
+    "Fleeting Notes/Orderbooks in CEX vs DEX.md",
+    "Fleeting Notes/Understanding PGAs.md",
+    "Fleeting Notes/Gas and fees in Ethereum.md",
+    "Fleeting Notes/What are smart contracts really?.md",
+    "Fleeting Notes/Summary of Flashboys 2.0.md",
+    "Fleeting Notes/It is difficult to fix MEV so how do we mitigate it?.md",
+    "Fleeting Notes/MEV follows complexity.md",
+    "Fleeting Notes/The good and bad effects of MEV.md",
+    "Fleeting Notes/It is infeasible to calculate the total potential MEV in a blockchain.md"
   ]
 }
