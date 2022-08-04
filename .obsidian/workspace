@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Frontrunning and arbitrage.md",
+            "file": "Fleeting Notes/What are some PGA strategies?.md",
             "mode": "source",
             "source": false
           }
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Frontrunning and arbitrage.md",
+                "file": "Fleeting Notes/What are some PGA strategies?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +112,15 @@
   },
   "active": "4801eb1228dcd7ac",
   "lastOpenFiles": [
+    "Fleeting Notes/What are some PGA strategies?.md",
+    "Fleeting Notes/Why repeaated bidding?.md",
+    "Fleeting Notes/Diving into PGAs between miners and bots.md",
+    "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
+    "Fleeting Notes/PGAs, ordering, and HFT.md",
+    "Fleeting Notes/An example of pure revenue.md",
+    "Fleeting Notes/Deep dive into arbitrage on a decentralized exchange.md",
     "Fleeting Notes/Frontrunning and arbitrage.md",
     "Fleeting Notes/Orderbooks in CEX vs DEX.md",
-    "Fleeting Notes/Understanding PGAs.md",
-    "Fleeting Notes/Gas and fees in Ethereum.md",
-    "Fleeting Notes/What are smart contracts really?.md",
-    "Fleeting Notes/Summary of Flashboys 2.0.md",
-    "Fleeting Notes/It is difficult to fix MEV so how do we mitigate it?.md",
-    "Fleeting Notes/MEV follows complexity.md",
-    "Fleeting Notes/The good and bad effects of MEV.md",
-    "Fleeting Notes/It is infeasible to calculate the total potential MEV in a blockchain.md"
+    "Fleeting Notes/Understanding PGAs.md"
   ]
 }
