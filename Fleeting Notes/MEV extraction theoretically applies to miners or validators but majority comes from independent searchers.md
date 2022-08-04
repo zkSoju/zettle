@@ -2,7 +2,7 @@
 Status: 
 Tags: #mev
 
-# MEV extraction theoretically applies to miners or validators but majority comes from independent "searchers"
+# MEV extraction theoretically applies to miners or validators but majority comes from independent searchers
 
 - Miners/validators are only party that can guarantee execution
 - However, majority of MEV comes from "searchers" who run complex algorithms to detect profitable MEV opportunities then have bots submit profitable transactions
