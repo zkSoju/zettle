@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/MEV extraction theoretically applies to miners or validators but majority comes from independent searchers.md",
+            "file": "Fleeting Notes/What is a AMM.md",
             "mode": "source",
             "source": false
           }
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/MEV extraction theoretically applies to miners or validators but majority comes from independent searchers.md",
+                "file": "Fleeting Notes/What is a AMM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +112,7 @@
   },
   "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
+    "Fleeting Notes/What is a AMM.md",
     "Fleeting Notes/MEV extraction theoretically applies to miners or validators but majority comes from independent searchers.md",
     "Fleeting Notes/How is a centralized exchange different from a decentralized one.md",
     "Fleeting Notes/Deploying metamorphic contracts.md",
@@ -120,7 +121,6 @@
     "Fleeting Notes/Writing Upgradeable contracts.md",
     "Fleeting Notes/What are stable coins.md",
     "Fleeting Notes/Why programmable money.md",
-    "Fleeting Notes/What is SWR.md",
-    "Fleeting Notes/What is memory management.md"
+    "Fleeting Notes/What is SWR.md"
   ]
 }
