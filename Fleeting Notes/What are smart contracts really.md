@@ -2,7 +2,7 @@
 Status: 
 Tags: #mev #ethereum
 
-# What are smart contracts really?
+# What are smart contracts really
 
 - Smart contracts
 	- Small computer programs executed without intervention

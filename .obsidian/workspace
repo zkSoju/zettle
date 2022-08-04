@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/What are some PGA strategies?.md",
+            "file": "Fleeting Notes/It is difficult to fix MEV so how do we mitigate it.md",
             "mode": "source",
             "source": false
           }
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/What are smart contracts really?.md",
+            "file": "Fleeting Notes/What is tRPC.md",
             "mode": "source",
             "source": false
           }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#real3",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 261
+    "width": 573.5
   },
   "right": {
     "id": "b921948029e0c155",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/What are some PGA strategies?.md",
+                "file": "Fleeting Notes/What is tRPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,17 +110,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4801eb1228dcd7ac",
+  "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
-    "Fleeting Notes/What are some PGA strategies?.md",
-    "Fleeting Notes/Why repeaated bidding?.md",
-    "Fleeting Notes/Diving into PGAs between miners and bots.md",
-    "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
-    "Fleeting Notes/PGAs, ordering, and HFT.md",
-    "Fleeting Notes/An example of pure revenue.md",
-    "Fleeting Notes/Deep dive into arbitrage on a decentralized exchange.md",
-    "Fleeting Notes/Frontrunning and arbitrage.md",
-    "Fleeting Notes/Orderbooks in CEX vs DEX.md",
-    "Fleeting Notes/Understanding PGAs.md"
+    "Fleeting Notes/What is tRPC.md",
+    "Fleeting Notes/Why repeated bidding.md",
+    "Fleeting Notes/Writing Upgradeable contracts.md",
+    "Fleeting Notes/What are stable coins.md",
+    "Fleeting Notes/Why programmable money.md",
+    "Fleeting Notes/What is SWR.md",
+    "Fleeting Notes/What is memory management.md",
+    "Fleeting Notes/What is Flashbots.md",
+    "Fleeting Notes/What is Defi.md",
+    "Fleeting Notes/What is DAI and how does it work.md"
   ]
 }

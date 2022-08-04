@@ -2,7 +2,7 @@
 Status: 
 Tags: #mev
 
-# It is difficult to fix MEV so how do we mitigate it?
+# It is difficult to fix MEV so how do we mitigate it
 - MEV at a large scale may make "tax" on Ethereum users unbearable
 - Impaired UX and stall ETH network effects
 - Better application design
