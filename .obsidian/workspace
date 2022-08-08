@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4801eb1228dcd7ac",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Fleeting Notes/It is difficult to fix MEV so how do we mitigate it.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
         "id": "df5ddaeba1c49c7f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/What is a AMM.md",
+            "file": "Fleeting Notes/Implications of MEV and Blockchain security.md",
             "mode": "source",
             "source": false
           }
@@ -65,7 +53,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 573.5
+    "width": 223.5,
+    "collapsed": true
   },
   "right": {
     "id": "b921948029e0c155",
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/What is a AMM.md",
+                "file": "Fleeting Notes/Implications of MEV and Blockchain security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +101,15 @@
   },
   "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
+    "Fleeting Notes/What are some PGA strategies.md",
+    "Fleeting Notes/Is OO an issue with PoS and the merge.md",
+    "Fleeting Notes/Implications of MEV and Blockchain security.md",
+    "Fleeting Notes/It is difficult to fix MEV so how do we mitigate it.md",
     "Fleeting Notes/What is a AMM.md",
     "Fleeting Notes/MEV extraction theoretically applies to miners or validators but majority comes from independent searchers.md",
     "Fleeting Notes/How is a centralized exchange different from a decentralized one.md",
     "Fleeting Notes/Deploying metamorphic contracts.md",
     "Fleeting Notes/What is tRPC.md",
-    "Fleeting Notes/Why repeated bidding.md",
-    "Fleeting Notes/Writing Upgradeable contracts.md",
-    "Fleeting Notes/What are stable coins.md",
-    "Fleeting Notes/Why programmable money.md",
-    "Fleeting Notes/What is SWR.md"
+    "Fleeting Notes/Why repeated bidding.md"
   ]
 }
