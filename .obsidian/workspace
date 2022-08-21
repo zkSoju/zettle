@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Just in time (JIT) Liquidity presents MEV opportunity in Uni V3.md",
+            "file": "Fleeting Notes/Chat server using tokio.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Just in time (JIT) Liquidity presents MEV opportunity in Uni V3.md",
+                "file": "Fleeting Notes/Chat server using tokio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
-    "Fleeting Notes/Modern generalized frontrunners in action which are more complex.md",
-    "Fleeting Notes/Lending protocols liquidations introduce a MEV opportunity.md",
-    "Fleeting Notes/Arbitraging low risk gains atomically.md",
-    "Fleeting Notes/What is the sandwiching attack.md",
-    "Fleeting Notes/Return to the dark forest.md",
-    "Fleeting Notes/Ethereum is a dark forest.md",
-    "Fleeting Notes/Escaping the dark forest.md",
-    "Fleeting Notes/Implications of MEV and Blockchain security.md",
-    "Fleeting Notes/What are some PGA strategies.md",
-    "Fleeting Notes/Is OO an issue with PoS and the merge.md"
+    "Fleeting Notes/What are the type of nodes.md",
+    "Fleeting Notes/What is the difference betwen a node and a client.md",
+    "Fleeting Notes/What does ReInt indicate and how does it compare to proxy upgradeability.md",
+    "Fleeting Notes/Untitled 3.md",
+    "Fleeting Notes/What is Flashbots.md",
+    "Fleeting Notes/Untitled 1.md",
+    "Fleeting Notes/How do Flashbots auctions work.md",
+    "Fleeting Notes/Untitled 2.md",
+    "Fleeting Notes/What are flashbots bundles.md",
+    "Fleeting Notes/Two pointers.md"
   ]
 }
