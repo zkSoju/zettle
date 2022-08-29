@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Chat server using tokio.md",
+            "file": "Fleeting Notes/Power of Cosmos SDK.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#paradigm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 223.5,
-    "collapsed": true
+    "width": 223.5
   },
   "right": {
     "id": "b921948029e0c155",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Chat server using tokio.md",
+                "file": "Fleeting Notes/Power of Cosmos SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
-    "Fleeting Notes/What are the type of nodes.md",
-    "Fleeting Notes/What is the difference betwen a node and a client.md",
-    "Fleeting Notes/What does ReInt indicate and how does it compare to proxy upgradeability.md",
-    "Fleeting Notes/Untitled 3.md",
-    "Fleeting Notes/What is Flashbots.md",
-    "Fleeting Notes/Untitled 1.md",
-    "Fleeting Notes/How do Flashbots auctions work.md",
-    "Fleeting Notes/Untitled 2.md",
-    "Fleeting Notes/What are flashbots bundles.md",
-    "Fleeting Notes/Two pointers.md"
+    "Fleeting Notes/What is CosmWasm.md",
+    "Fleeting Notes/Learn about the Cosmos ecosystem.md",
+    "Fleeting Notes/How does Cosmos tackle the sovereignty problem.md",
+    "Fleeting Notes/How does Cosmos tackle the scalability issue.md",
+    "Fleeting Notes/Dive into Cosmos Academy.md",
+    "Fleeting Notes/Finality in PoW vs PoS blockchains.md",
+    "Fleeting Notes/Anatomy of Cosmos SDK application.md",
+    "Fleeting Notes/Introduction into Cosmos SDK.md",
+    "Fleeting Notes/Object-capability module used in Cosmos.md",
+    "Fleeting Notes/0xMonaco Takeaways.md"
   ]
 }
