@@ -95,9 +95,71 @@ service Msg {
 - Modules
 	- SDK modules make up unique properties of each chain
 	- "State machines within larger state machine"
-	- Tx broadcasted -> Tendermint consensus confirms -> BaseApp decomposes messages and routes to appropriate module -> Module message handler routes to function that contains state altering logic
+	- **Tx broadcasted -> Tendermint consensus confirms -> BaseApp decomposes messages and routes to appropriate module -> Module message handler routes to function that contains state altering logic**
+	- Scope
+		- Boilerplate implementation of ABCI to communicate with Tendermint consensus
+		- General purpose data store called `multistore`
+		- A server and interfaces to facilitate node transactions with the node
+	- Core handles wiring and infrastructure allowing modules to focus on application logic
+	- Module is a subset of overall state
+		- One or more key value stores `KVStore`
+		- Subset of message types
+	- Can also define interaction with other modules
+	- Components
+		- Interfaces
+			- Facilitate communication b/w modules and composition  of multiple modules
+			- Must implement
+				- AppModuleBasic - non dependent elements of app
+				- AppModule - interdependent unique elements of app
+				- AppModuleGenesis - interdependent genesis/init state of blockchain
+		- Protobuf 
+			- `Msg` service to handle messages (tx.proto)
+			- `Query` gRPC service to handle queries (query.proto)
+			- Notes
+				- Module should implement `RegisterServices` so app knows which messages and queries module can handle
+				- Methods should use a keeper to encapsulate knowledge of storage layout
+		- Keeper
+			- Controller that defines state and has methods for updating/inspecting state
+			- Developers define who and what should have access to store
+			- Modules need to define intent to interact with another module at construction to prevent modules from accessing another at runtime
+				- Object-capability model
+	- Core modules
+		- SDK includes modules for governance, staking, etc.
+			- Provides standardization for good interoperability
+			- Duplication of effort is reduced
+			- Working example of good code/suggested structure
+		- Suggested directory layout in references
+- Protobuf
+	- Open source, extensible, cross-platform, language agnostic method of serializing data
+		- For Network communication and storage
+	- Data structure defined in `proto` file
+	- gRPC can use Protobuf as interface definition language and message interchange format
+	- Types
+		- Core of cosmos app is just types and constructors
+			- Reference to `BaseApp`
+			- List of store keys (for each module's multistore)
+			- List of module's keepers
+			- Reference to Codec
+			- Reference to module manager
+- Multistore and keepers
+	- Each module has a subset of entire app state
+	- Keepers (aka. gatekeeper) manage this subset and maintain object-capabilities model 
+		- Protects against unwanted inter-module interactions
+		- Store comes with `storeKey` which grants unlimited access
+		- When module needs to modify state controlled by another module it needs to interact with it's keeper
+	- Types
+		- External keepers required by the internal keeper of the module to interface with
+		- Store keys grant access to any store of multistore managed by module (private)
+		- Codec
+	- Scope and best practices
+		- Getters and setters
+	- Store Types
+		- KVStore
+		- Multistore - store of KVStores
+		- Both implement CommitMultistore
 
 
 ---
 # References
 
+https://tutorials.cosmos.network/academy/2-main-concepts/modules.html
