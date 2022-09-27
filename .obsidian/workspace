@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Fleeting Notes/Main Concepts of Cosmos.md",
+            "file": "Fleeting Notes/Things to consider for building a checkers game.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Main Concepts of Cosmos.md",
+                "file": "Fleeting Notes/Things to consider for building a checkers game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "df5ddaeba1c49c7f",
   "lastOpenFiles": [
+    "Fleeting Notes/Technical process of building a Cosmos chain.md",
+    "Fleeting Notes/Things to consider for building a checkers game.md",
+    "Fleeting Notes/Main Concepts of Cosmos.md",
     "Fleeting Notes/Dive into Cosmos Academy.md",
     "Fleeting Notes/Running through Checkers code sample in Cosmos.md",
-    "Fleeting Notes/Main Concepts of Cosmos.md",
     "Fleeting Notes/Introduction into Cosmos SDK.md",
     "Fleeting Notes/What is CosmWasm.md",
     "Fleeting Notes/Learn about the Cosmos ecosystem.md",
     "Fleeting Notes/Power of Cosmos SDK.md",
-    "Fleeting Notes/How does Cosmos tackle the sovereignty problem.md",
-    "Fleeting Notes/How does Cosmos tackle the scalability issue.md",
-    "Fleeting Notes/Finality in PoW vs PoS blockchains.md"
+    "Fleeting Notes/How does Cosmos tackle the sovereignty problem.md"
   ]
 }

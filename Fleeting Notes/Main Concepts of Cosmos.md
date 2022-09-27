@@ -3,7 +3,11 @@ Status:
 Tags: #cosmos
 
 # Main Concepts of Cosmos
-
+- Architecture
+	- ABCI is network/consensus interface for the application
+		- Developers can focus on higher order concerns 
+		- Leaves peer-discovery, validator selection, staking, upgrades, etc to Tendermint BFT enigne
+		- Connected to app by socket protocol
 - Accounts
 	- Components
 		- PubKey - user or identity
@@ -157,6 +161,58 @@ service Msg {
 		- KVStore
 		- Multistore - store of KVStores
 		- Both implement CommitMultistore
+- BaseApp
+	- Things initialized during bootstrapping
+		- CommitMultiStore - main store (store of stores)
+			- Each module uses one or multiple KVStore
+		- `Msg` service router - routes messages to appropriate module's `Msg` service
+			- ABCI messages
+				- CheckTx
+				- DeliverTx
+				- InitChain
+				- BeginBlock
+				- EndBlock
+				- Commit
+				- Info
+				- Query
+		- gRPC query router - routes gRPC queries to appropriate module
+		- TxDecoder - decodes raw tx bytes relayed by Tendermine engine
+		- ParamStore - get/set consensus params
+		- AnteHandler - handles many pre-message execution checks (signature verification, fee payment, etc)
+		- InitChainer, BeginBlocker, EndBlocker - functions exec when ABCI messages are received from Tendermint engine
+	- Parameters that define votaile state
+		- checkState - state updated during CheckTx and reset on Commit
+		- deliverState - state updated during DeliverTx and nil on Commit, reinit on BeginBlock
+	- Consensus parameters
+		- voteInfos - list of validators whose pre-commit is missing, which can be used by app to punish absent validators
+		- minGasPrices - min gas accepted by node, this is local to each full-node which means tx only enters mempool if supplied gas are greater than (1 photon || 1 uatom)?
+		- appVersion
+	- Constructor
+		- Constructor runs options arguments in order, which can be used to pass in functions to set gas prices and pruning options
+	- States (1 persistent 2 votaile)
+		- Persistent main state
+		- Votaile states which handle transitions between main states during commits
+			- checkState
+			- deliverState
+	- State updates
+		- InitChain
+			- checkState/deliverState each branch from root CommitMultistore
+		- CheckTx
+			- checkState on previous commit from root
+			- execute AnteHandler and verify each message has a service router
+				- operates on branch of checkState, so if it fails checkState not updated
+		- BeginBlock
+			- deliverState based on previous commit from root
+		- DeliverTx
+			- Acts similar to checkTx except transitions occur on deliverState transaction
+		- Commit 
+			- State transitions from deliverTx written to root
+			- checkState = root
+			- deliverState = nil
+		- ParamStore
+			- ConsensusParams supplied during InitChain and if non-nil they are stored in ParamStore which is managed by x/params module
+				- Allows for onchain governance to tweak block execution params
+	- Service Routers
 
 
 ---
