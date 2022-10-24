@@ -2,7 +2,6 @@
 Status: 
 Tags:
 
-# Benefits of CREATE2
 [[How does CREATE2 work]]
 [[Comparing CREATE2 vs CREATE]]
 

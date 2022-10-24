@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "1046737046396965",
+    "type": "split",
+    "children": [
+      {
+        "id": "07698b0fe5b3e240",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4a96272bbf6fe25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/0xMonaco Takeaways.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3eaeeccd05e79989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Bad Proofs in Formal Verification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce62f9e35a63f3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7189949de255c3c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Exploring the Security Landscape.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6efe97fcd42f61a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ece459f98d60e29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "533026b997a001ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aefb66f9273070ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cypher",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 223.5
+  },
+  "right": {
+    "id": "b921948029e0c155",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2586de500fd6d83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92bca7538e6e6621",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Literature Notes/Exploring the Security Landscape.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "bdad1f4993dc0b4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "7189949de255c3c7",
+  "lastOpenFiles": [
+    "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md",
+    "Literature Notes/Exploring the Security Landscape.md",
+    "Fleeting Notes/Bad Proofs in Formal Verification.md",
+    "Fleeting Notes/What are tokenized vaults.md",
+    "Literature Notes/Benefits of CREATE2.md",
+    "Fleeting Notes/Untitled 4.md",
+    "Literature Notes/Seaport Marketplace.md",
+    "Literature Notes/Marketplace Protocols Key Takewaways.md",
+    "Literature Notes/Backend Architecture with GraphQL.md",
+    "Fleeting Notes/Untitled 6.md"
+  ]
+}
