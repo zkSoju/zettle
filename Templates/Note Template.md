@@ -2,8 +2,6 @@
 Status: 
 Tags:
 
-# {{title}}
-
 
 
 
