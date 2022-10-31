@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/What is the Default Protocol Framework?.md",
+                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/What is the Default Protocol Framework?.md",
+                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +135,10 @@
   },
   "active": "5254ceadc896a2c4",
   "lastOpenFiles": [
-    "Fleeting Notes/Setting up RDS and Lambda function.md",
-    "Fleeting Notes/What is the Default Protocol Framework?.md",
-    "Templates/Note Template.md",
     "Fleeting Notes/Vim Bindings.md",
+    "Fleeting Notes/What is the Default Protocol Framework.md",
+    "Fleeting Notes/Setting up RDS and Lambda function.md",
+    "Templates/Note Template.md",
     "Fleeting Notes/Breaking down basics of Cairo language.md",
     "Fleeting Notes/Arbitraging low risk gains atomically.md",
     "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
