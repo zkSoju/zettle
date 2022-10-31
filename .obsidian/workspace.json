@@ -42,8 +42,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2f7ed5e228ea595f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Applications of Cryptography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
+<<<<<<< Updated upstream
         ]
+=======
+        ],
+        "currentTab": 2
+>>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -101,7 +118,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Fleeting Notes/What is the Default Protocol Framework.md",
+=======
+                "file": "Fleeting Notes/Applications of Cryptography.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,17 +154,29 @@
   "ribbon": {
     "mostRecentAction": ""
   },
+<<<<<<< Updated upstream
   "active": "5254ceadc896a2c4",
   "lastOpenFiles": [
     "Fleeting Notes/Vim Bindings.md",
     "Fleeting Notes/What is the Default Protocol Framework.md",
     "Fleeting Notes/Setting up RDS and Lambda function.md",
+=======
+  "active": "2f7ed5e228ea595f",
+  "lastOpenFiles": [
+    "Fleeting Notes/Vim Bindings.md",
+>>>>>>> Stashed changes
     "Templates/Note Template.md",
     "Fleeting Notes/Breaking down basics of Cairo language.md",
     "Fleeting Notes/Arbitraging low risk gains atomically.md",
     "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
     "Fleeting Notes/Allocating memory in Cairo.md",
     "Fleeting Notes/Advanced features from zustand.md",
+<<<<<<< Updated upstream
     "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md"
+=======
+    "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md",
+    "Literature Notes/Exploring the Security Landscape.md",
+    "Fleeting Notes/Bad Proofs in Formal Verification.md"
+>>>>>>> Stashed changes
   ]
 }
