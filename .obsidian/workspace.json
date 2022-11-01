@@ -13,38 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
+                "file": "Templates/Note Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f2d6d2561b282a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Setting up RDS and Lambda function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d3d8a3b3044665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Vim Bindings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f7ed5e228ea595f",
+            "id": "dff089c7ecf94c28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,13 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "245bb3053b19916f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-<<<<<<< Updated upstream
-        ]
-=======
         ],
         "currentTab": 2
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
@@ -118,11 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
-=======
                 "file": "Fleeting Notes/Applications of Cryptography.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,32 +129,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-<<<<<<< Updated upstream
-  "active": "5254ceadc896a2c4",
+  "active": "245bb3053b19916f",
   "lastOpenFiles": [
     "Fleeting Notes/Vim Bindings.md",
-    "Fleeting Notes/What is the Default Protocol Framework.md",
-    "Fleeting Notes/Setting up RDS and Lambda function.md",
-=======
-  "active": "2f7ed5e228ea595f",
-  "lastOpenFiles": [
-    "Fleeting Notes/Vim Bindings.md",
->>>>>>> Stashed changes
+    "Fleeting Notes/Applications of Cryptography.md",
     "Templates/Note Template.md",
     "Fleeting Notes/Breaking down basics of Cairo language.md",
     "Fleeting Notes/Arbitraging low risk gains atomically.md",
     "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
     "Fleeting Notes/Allocating memory in Cairo.md",
     "Fleeting Notes/Advanced features from zustand.md",
-<<<<<<< Updated upstream
-    "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md"
-=======
     "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md",
-    "Literature Notes/Exploring the Security Landscape.md",
-    "Fleeting Notes/Bad Proofs in Formal Verification.md"
->>>>>>> Stashed changes
+    "Literature Notes/Exploring the Security Landscape.md"
   ]
 }
