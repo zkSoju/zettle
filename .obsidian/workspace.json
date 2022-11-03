@@ -83,8 +83,12 @@
             "id": "7984ce2a36b0ccd1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/What are potential sources of cashflow in Web3.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -182,6 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Literature Notes/What are potential sources of cashflow in Web3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,8 +216,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "533026b997a001ed",
+  "active": "7984ce2a36b0ccd1",
   "lastOpenFiles": [
+    "Fleeting Notes/Untitled.md",
     "Literature Notes/Are contracts really legos.md",
     "Literature Notes/What are potential sources of cashflow in Web3.md",
     "Fleeting Notes/Untitled 8.md",
@@ -221,7 +227,6 @@
     "Fleeting Notes/Where do DeFi yields come from.md",
     "Fleeting Notes/Most popular revenue model is for.md",
     "Fleeting Notes/Composability is innovation.md",
-    "Fleeting Notes/Organizing and upgrading a protocol with Default.md",
-    "Fleeting Notes/What is the Default Protocol Framework.md"
+    "Fleeting Notes/Organizing and upgrading a protocol with Default.md"
   ]
 }
