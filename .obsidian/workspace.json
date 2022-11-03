@@ -4,71 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c98a9fcdf876a048",
+        "id": "4e8547f7052b9b4f",
         "type": "tabs",
         "children": [
           {
-            "id": "5254ceadc896a2c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52ce0a6550d8f9c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4a29b8304dbfd96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Organizing and upgrading a protocol with Default.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d1ffb8dea85bcfc0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Composability is innovation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4844de02ad813daf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Where do DeFi yields come from.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99accced7861fbed",
+            "id": "492c448860f1df05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,57 +18,26 @@
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "576c62a1f1ee7511",
+        "type": "tabs",
+        "children": [
           {
-            "id": "7984ce2a36b0ccd1",
+            "id": "121bd18c0ff686c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/What are potential sources of cashflow in Web3.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ef6387307b5597c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Where do DeFi yields come from.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2d6d2561b282a8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Setting up RDS and Lambda function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97d3d8a3b3044665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Notes/Vim Bindings.md",
+                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fees",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/What are potential sources of cashflow in Web3.md",
+                "file": "Literature Notes/Are contracts really legos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7984ce2a36b0ccd1",
+  "active": "492c448860f1df05",
   "lastOpenFiles": [
-    "Fleeting Notes/Untitled.md",
+    "Fleeting Notes/Composability isn't possible without adapters.md",
     "Literature Notes/Are contracts really legos.md",
-    "Literature Notes/What are potential sources of cashflow in Web3.md",
-    "Fleeting Notes/Untitled 8.md",
+    "Fleeting Notes/What is the Default Protocol Framework.md",
+    "Literature Notes/Exploring the Security Landscape.md",
+    "Literature Notes/Benefits of CREATE2.md",
+    "Literature Notes/Seaport Marketplace.md",
+    "Literature Notes/Marketplace Protocols Key Takewaways.md",
     "Fleeting Notes/Popular revenue models in Web3.md",
-    "Fleeting Notes/Untitled 7.md",
-    "Fleeting Notes/Where do DeFi yields come from.md",
-    "Fleeting Notes/Most popular revenue model is for.md",
-    "Fleeting Notes/Composability is innovation.md",
-    "Fleeting Notes/Organizing and upgrading a protocol with Default.md"
+    "Literature Notes/Cashflowing in Web3.md",
+    "Fleeting Notes/Roytalties and a race to the bottom.md"
   ]
 }

@@ -4,7 +4,8 @@ Tags:
 
 - Many protocols rely on a fee-based model (products?) 
 	- Swap fees
-	- Markplace fees
+	- Marketplace fees
+	- Royalty fees
 	- Transaction/trading fees
 	- Capturing the most block space and user attention is important with this model since higher volume through provided services means more revenue from fees
 - Others rely on product sales model (services?)

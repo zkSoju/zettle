@@ -9,7 +9,7 @@ Tags: #mev #ethereum
 	- Verified execution by participants
 	- Public blockchain network used as underlying infra
 - Tokens are a popular use case for smart contracts, which represent a scarce item
-- DEXes allow users to trade tokens in a non-custodial mmanner
+- DEXes allow users to trade tokens in a non-custodial manner
 
 
 
