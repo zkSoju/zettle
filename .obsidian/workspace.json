@@ -13,36 +13,118 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Note Template.md",
+                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "dff089c7ecf94c28",
+            "id": "52ce0a6550d8f9c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Notes/Applications of Cryptography.md",
+                "file": "Fleeting Notes/What is the Default Protocol Framework.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "245bb3053b19916f",
+            "id": "a4a29b8304dbfd96",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.0.3"
+                "file": "Fleeting Notes/Organizing and upgrading a protocol with Default.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1ffb8dea85bcfc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Composability is innovation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4844de02ad813daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Where do DeFi yields come from.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "99accced7861fbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Are contracts really legos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7984ce2a36b0ccd1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ef6387307b5597c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Where do DeFi yields come from.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2d6d2561b282a8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Setting up RDS and Lambda function.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97d3d8a3b3044665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Notes/Vim Bindings.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -71,7 +153,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#cypher",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -100,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Notes/Applications of Cryptography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,19 +208,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "245bb3053b19916f",
+  "active": "533026b997a001ed",
   "lastOpenFiles": [
-    "Fleeting Notes/Vim Bindings.md",
-    "Fleeting Notes/Applications of Cryptography.md",
-    "Templates/Note Template.md",
-    "Fleeting Notes/Breaking down basics of Cairo language.md",
-    "Fleeting Notes/Arbitraging low risk gains atomically.md",
-    "Fleeting Notes/Analyzing on-chain transactions in an arbitrage.md",
-    "Fleeting Notes/Allocating memory in Cairo.md",
-    "Fleeting Notes/Advanced features from zustand.md",
-    "Fleeting Notes/Hunting and Monitoring for On-chain Attacks.md",
-    "Literature Notes/Exploring the Security Landscape.md"
+    "Literature Notes/Are contracts really legos.md",
+    "Literature Notes/What are potential sources of cashflow in Web3.md",
+    "Fleeting Notes/Untitled 8.md",
+    "Fleeting Notes/Popular revenue models in Web3.md",
+    "Fleeting Notes/Untitled 7.md",
+    "Fleeting Notes/Where do DeFi yields come from.md",
+    "Fleeting Notes/Most popular revenue model is for.md",
+    "Fleeting Notes/Composability is innovation.md",
+    "Fleeting Notes/Organizing and upgrading a protocol with Default.md",
+    "Fleeting Notes/What is the Default Protocol Framework.md"
   ]
 }
